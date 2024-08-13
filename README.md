@@ -24,3 +24,5 @@
 - Onboarding pubmat
 - Onboarding pubmat with image
 - Mascot
+- Event border
+- DP blast
