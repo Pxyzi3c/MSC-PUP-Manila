@@ -1,7 +1,7 @@
 # ROLES AND RESPONSIBILITIES
 ## 1. Illustrators
 **Primary Responsibilities:**
-- Create custom assets and illustrations for various projects (e.g., social media graphics, merchandise, presentations).
+- Create custom assets and illustrations for various projects (e.g., social media graphics, merchandise).
 - Design DP blasts (dynamic profile pictures) for team members or campaigns.
 - Develop primers (informational materials) with visual elements.
 
